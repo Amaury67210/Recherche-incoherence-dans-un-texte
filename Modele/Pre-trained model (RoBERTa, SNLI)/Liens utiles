@@ -1,0 +1,14 @@
+1ere modele : 
+
+- https://storage.googleapis.com/allennlp-public-models/snli-roberta-2020-07-29.tar.gz 
+- https://paperswithcode.com/lib/allennlp/roberta-snli
+- https://demo.allennlp.org/textual-entailment/roberta-snli
+
+2eme modele : 
+
+- This model was trained using SentenceTransformers Cross-Encoder class. 
+-- https://www.sbert.net/examples/applications/cross-encoder/README.html
+- The model was trained on the SNLI and MultiNLI datasets. For a given sentence pair, it will output three
+  scores corresponding to the labels: contradiction, entailment, neutral in this order !!! 
+- 
+
